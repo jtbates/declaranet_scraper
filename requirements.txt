@@ -1,0 +1,4 @@
+browsermob-proxy==0.7.1
+requests==2.11.1
+selenium==3.0.2
+Unidecode==0.4.19
