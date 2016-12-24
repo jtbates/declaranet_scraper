@@ -4,4 +4,4 @@ Tools to download PDFs from DeclaraNet and extract structured data.
 
 ## Installation
 ### Requirements
-You will need [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) installed.
+You will need geckodriver in your search path.
