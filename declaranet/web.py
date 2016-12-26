@@ -27,7 +27,7 @@ PDF_URL = 'http://www.servidorespublicos.gob.mx/consulta.pdf'
 
 
 def get_driver():
-    driver = webdriver.Firefox()
+    driver = webdriver.PhantomJS()
     return(driver)
 
 #driver = get_driver()
